@@ -2,7 +2,7 @@
 
 <h3>HTML and CSS Recipe Card Webpage</h3>
 
-Site can be view at: https://k-zimny.github.io/Recipe-Cards/
+Site can be viewed at: https://k-zimny.github.io/Recipe-Cards/
 
 File Description: 
 
